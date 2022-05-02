@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Youssef Sameh.
 - 👀 I’m interested in study data science.
-- 🌱 I’m currently learning data analysis techniques (SQL, Python, Tableau)
+- 🌱 I’m currently learning data analysis techniques (SQL, Python, Tableau).
+- My next plan is to learn more about data science and machine learning.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
